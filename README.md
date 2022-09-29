@@ -2,3 +2,6 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
+# Layout in CSS
+
+CSS Grid-layout experimenten.
