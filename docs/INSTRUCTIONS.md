@@ -1,26 +1,27 @@
 
-# [sprintnaam] - [deeltaak-naam]
+# The Client - Layout in CSS
 
-Beschrijving van de deeltaak
+Een oefening in document layout met CSS.
 
 ## Context
 
-Deze leertaak hoort bij sprint # [sprintnaam]. Dit is een deeltaak die je [individueel / in een team] uitvoert.
+Deze leertaak hoort bij sprint 2 the client. Dit is een deeltaak die je individueel uitvoert en waarmee je een checkpoint bij je docent haalt.
 
 In het college [[collegenaam](link)] wordt behandeld ... 
 
 
 ## Doel van deze opdracht
 
-Je leert hoe je ... 
+In onderstaande afbeelding zien je 18 verschillende layouts welke je met CSS kunt maken. Negen daarvan zijn basic layouts welke je met grid-template-areas en grid-area goed kunt realiseren. Naast deze basic layouts zijn er ook negen advanced layouts waarvoor je iets meer trucage uit je mouw moet schudden. 
 
+![9 basic en 9 advanced layouts](../src/assets/layouts.png)
+
+Waarom zou je dit doen? Omdat je oefent met veel verschillende layouts met de vier basis document elementen. Na het succesvol implementeren van alle bovenstaande layouts heb je altijd een soort *spiekbriefje* om naar terug te kijken als je een layout maakt.
 
 ## Werkwijze
 ![Opdrachtomschrijving](opdrachtomschrijving.png)
 
-*Hoe pak je dit aan, in welke fases van de DLC*
-
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
+Deze opdracht gaat over alle fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
 ### Analyseren
 Uitleg..

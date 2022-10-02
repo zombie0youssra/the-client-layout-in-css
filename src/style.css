@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+:root {
+  font-size: min(calc(1em + 1vw), 4em);
+}
+body {
+  min-height: 100vh;
+  font-family: sans-serif;
+}
+body > * {
+  min-height: 1em;
+}
+header {
+  background: cyan;
+}
+header > h1 {
+  margin: 0;
+}
+nav {
+  background: magenta;
+}
+main {
+  background: yellow;
+}
+footer {
+  background: black;
+  color: white;
+}
