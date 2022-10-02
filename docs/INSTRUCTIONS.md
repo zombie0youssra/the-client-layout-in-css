@@ -7,8 +7,9 @@ Een oefening in document layout met CSS.
 
 Deze leertaak hoort bij sprint 2 the client. Dit is een deeltaak die je individueel uitvoert en waarmee je een checkpoint bij je docent haalt.
 
-In het college [[collegenaam](link)] wordt behandeld ... 
+In het college [[S02W02 ](link)] wordt verteld over layout en grids, deze deeltaak behandeld verschillende typen layouts en is bedoeld als robuuste oefening in het maken van layouts.
 
+> *“Wax on right hand. Wax off left hand. Wax on, wax off. Breathe in through nose, out through mouth. Wax on, wax off. Don't forget to breathe. Very important.”* - Mr. Miyagi
 
 ## Doel van deze opdracht
 
@@ -19,7 +20,6 @@ In onderstaande afbeelding zien je 18 verschillende layouts welke je met CSS kun
 Waarom zou je dit doen? Omdat je oefent met veel verschillende layouts met de vier basis document elementen. Na het succesvol implementeren van alle bovenstaande layouts heb je altijd een soort *spiekbriefje* om naar terug te kijken als je een layout maakt.
 
 ## Werkwijze
-![Opdrachtomschrijving](opdrachtomschrijving.png)
 
 Omdat deze deeltaak bestaat uit 18 kleine taken doorloop je telkens de development lifecycle. Misschien had je al vaker het idee dat je dit telkens in het klein doet bij elke grotere opdracht.
 
@@ -40,7 +40,8 @@ Maak een snelle schets welke je gebruikt om de layout te implementeren.
 #### Aanpak
 
 1. Maak een breakdown schets en zet er wat hints bij over hoe je de vlakverdeling met CSS zou kunnen bereiken. Het kan helpen het grid met een afwijkende kleur in jouw breakdown te tekenen.
-2. Schrijf in de breakdown wat het header, nav, main en footer element is.
+2. Schrijf in de breakdown wat het header, nav, main en footer element is;
+3. Voeg een foto van de breakdown toe aan de wiki, geef de pagina de naam van de betreffende layout.
 
 ### Bouwen
 Implementeer de layout in het `<style></style>` element in de head van het betreffende html document.
@@ -62,14 +63,19 @@ Voer een commit uit op jouw GitHub met de layout die je zojuist geïmplementeerd
 #### Aanpak
 
 1. Voer in GitHub een commit message in, gebruik de naam van de layout die je zojuist geïmplementeerd hebt;
-2. Verstuur de commit naar GitHub door te *pushen*.
+2. Verstuur de commit naar GitHub door te *pushen*;
+3. Beschrijf in de wiki hoe je het implementeren van deze layout hebt aangepakt (bijvoorbeeld: ik heb met grid-template-area…). Beschrijf ook wat er heel goed ging en wat lastig was;
+4. Neem in je wiki een direct linkje naar de betreffende layout op.
 
 ### Testen
 Test in een browser of de versie die je net online gezet hebt ook via GitHub pages werkt.
 
 #### Aanpak
 
-1. Open jouw repository via de GitHub pages link.
+1. Open jouw repository via de directe link;
+2. Check of alles werkt;
+3. Vergelijk jouw implementatie even met een klasgenoot;
+4. Schrijf heel kort op wat je opviel bij het testen.
 
 ## Criteria
 
@@ -83,7 +89,8 @@ Deze opdracht is done als:
 
 - [ ] De 9 basis layouts zijn geïmplementeerd;
 - [ ] De 9 Advanced layouts zijn geïmplementeerd;
-- [ ] Al je werk te bekijken is via GitHub pages.
+- [ ] Al je werk te bekijken is via GitHub pages;
+- [ ] Alle schetsen voor de 18 layouts in je wiki zijn opgenomen.
 
 Als je klaar bent laat je deze deeltaak afzonderlijk checken door een docent, je doet dus een checkpoint op alléén deze deeltaak. Je kunt op elk moment een checkpoint doen en hoeft niet te wachten op een/ de laatste vrijdag.
 
