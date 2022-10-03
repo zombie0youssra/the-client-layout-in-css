@@ -39,9 +39,16 @@ Maak een snelle schets welke je gebruikt om de layout te implementeren.
 
 #### Aanpak
 
-1. Maak een breakdown schets en zet er wat hints bij over hoe je de vlakverdeling met CSS zou kunnen bereiken. Het kan helpen het grid met een afwijkende kleur in jouw breakdown te tekenen.
-2. Schrijf in de breakdown wat het header, nav, main en footer element is;
-3. Voeg een foto van de breakdown toe aan de wiki, geef de pagina de naam van de betreffende layout.
+1. Onderzoek met behulp van CSS-Tricks hoe je de layout zou kunnen maken in CSS (Grid voor de basic layouts, misschien wat Flexbox bij de advanced layouts).
+2. Maak een breakdown schets en zet er wat hints bij over hoe je de vlakverdeling met CSS kunt bereiken. 
+3. Teken het grid met een afwijkende kleur in jouw breakdown.
+4. Schrijf in de breakdown wat het header, nav, main en footer element is;
+5. Voeg een foto van de breakdown toe aan de wiki, geef de pagina de naam van de betreffende layout.
+
+#### Materiaal 
+
+- [A Complete Guide to Grid @ css-tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A Complete Guide to Flexbox @ css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Bouwen
 Implementeer de layout in het `<style></style>` element in de head van het betreffende html document.
@@ -51,11 +58,6 @@ Implementeer de layout in het `<style></style>` element in de head van het betre
 1. Definieer het grid (hint: grid-template-areas);
 2. Pas het grid toe op jouw document elementen (hint: grid-area);
 3. Check doorlopend jouw aanpassingen in de browser (baby-steps approach).
-
-#### Materiaal 
-
-- [A Complete Guide to Grid @ css-tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [A Complete Guide to Flexbox @ css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Integreren
 Voer een commit uit op jouw GitHub met de layout die je zojuist geïmplementeerd hebt. Op deze manier kan je altijd terug naar een versie waarvan je weet dat alles in orde was.
@@ -90,7 +92,8 @@ Deze opdracht is done als:
 - [ ] De 9 basis layouts zijn geïmplementeerd;
 - [ ] De 9 Advanced layouts zijn geïmplementeerd;
 - [ ] Al je werk te bekijken is via GitHub pages;
-- [ ] Alle schetsen voor de 18 layouts in je wiki zijn opgenomen.
+- [ ] Alle breakdown schetsen voor de 18 layouts in je wiki zijn opgenomen;
+- [ ] Bij elke schets staat een korte uitleg hoe je het resultaat hebt bereikt.
 
 Als je klaar bent laat je deze deeltaak afzonderlijk checken door een docent, je doet dus een checkpoint op alléén deze deeltaak. Je kunt op elk moment een checkpoint doen en hoeft niet te wachten op een/ de laatste vrijdag.
 
