@@ -6,6 +6,30 @@
     <title>Advanced Layout 1</title>
     <link rel="stylesheet" href="../style.css" />
     <style>
+      body{
+      display: grid;
+        grid-template-columns:1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+        grid-template-areas:
+        ". header header "
+        "nav nav ." 
+        ".content content"
+        ". footer footer";
+        gap: 10px;
+      }
+      header{
+        grid-area: header;
+      }
+      nav{
+        grid-area: nav;
+      }
+      main{
+        grid-area: content;
+      }
+
+      footer{
+        grid-area: footer;
+      }
       /* Doe hier jouw ding! */
     </style>
   </head>
