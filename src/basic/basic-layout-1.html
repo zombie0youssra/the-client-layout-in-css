@@ -6,6 +6,35 @@
     <title>Basic Layout 1</title>
     <link rel="stylesheet" href="../style.css" />
     <style>
+      body{
+        display: grid;
+        grid-template-columns: 0.5fr 2fr 1fr ;
+        grid-template-rows: 1fr 4fr 1fr;
+        grid-template-areas:
+        " boven boven boven"
+        " zoek content content"
+        " beneden beneden beneden";
+        gap: 10px 15px;
+      
+
+      }
+      header{
+        grid-area: boven;
+
+      }
+
+      nav{
+        grid-area: zoek;
+        
+      }
+
+      main{
+        grid-area: content;
+      }
+
+      footer{
+        grid-area: beneden;
+      }
       /* Doe hier jouw ding! */
     </style>
   </head>
